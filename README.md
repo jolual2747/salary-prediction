@@ -1,5 +1,5 @@
 # salary-prediction
-This is a project about salary prediction based on data from Glassdoor.
+This is a project about salary prediction based on data from Glassdoor with information related to data job salaries.
 
 
 
