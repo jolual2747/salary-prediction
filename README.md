@@ -3,4 +3,4 @@ This is a project about salary prediction based on data from Glassdoor with info
 
 The repository contains 2 notebooks.
 
-1. >EDA.ipynb with all the exploratory data analysis, feature engineering and feature extraction.
+1. `EDA.ipynb` with all the exploratory data analysis, feature engineering and feature extraction.
